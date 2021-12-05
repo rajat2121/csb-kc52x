@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://rajat2121.github.io/csb-kc52x/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://rajat2121.github.io/csb-kc52x/static/js/main.672f598d.chunk.js",
+    "main.js.map": "https://rajat2121.github.io/csb-kc52x/static/js/main.672f598d.chunk.js.map",
+    "runtime-main.js": "https://rajat2121.github.io/csb-kc52x/static/js/runtime-main.0a7c73e8.js",
+    "runtime-main.js.map": "https://rajat2121.github.io/csb-kc52x/static/js/runtime-main.0a7c73e8.js.map",
+    "static/js/2.018b186f.chunk.js": "https://rajat2121.github.io/csb-kc52x/static/js/2.018b186f.chunk.js",
+    "static/js/2.018b186f.chunk.js.map": "https://rajat2121.github.io/csb-kc52x/static/js/2.018b186f.chunk.js.map",
+    "index.html": "https://rajat2121.github.io/csb-kc52x/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://rajat2121.github.io/csb-kc52x/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.018b186f.chunk.js.LICENSE.txt": "https://rajat2121.github.io/csb-kc52x/static/js/2.018b186f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0a7c73e8.js",
+    "static/js/2.018b186f.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.672f598d.chunk.js"
+  ]
+}
